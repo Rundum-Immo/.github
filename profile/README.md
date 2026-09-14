@@ -1,63 +1,72 @@
 # Rundum Immo
 
-**Digital real-estate appraisal, valuation, and property technology.**
+**Digitale Immobilienbewertung, Gutachten und PropTech-Lösungen.**
 
-Rundum Immo UG develops digital services and software for professional real-estate appraisal in Germany. We combine structured digital workflows with the expertise of qualified property appraisers to make complex valuation processes more accessible, transparent, and efficient.
+Die Rundum Immo UG entwickelt digitale Dienstleistungen und Softwarelösungen für die professionelle Immobilienbewertung in Deutschland. Wir verbinden strukturierte digitale Prozesse mit der Expertise qualifizierter Immobiliengutachter, um komplexe Bewertungsverfahren zugänglicher, transparenter und effizienter zu gestalten.
 
-We are the company behind [AfAMax](https://afamax.de), our platform for property appraisal and tax-related real-estate services.
+Wir sind das Unternehmen hinter [AfAMax](https://afamax.de), unserer Plattform für Immobilienbewertung sowie steuerlich relevante Gutachten und Dienstleistungen rund um Immobilien.
 
-## What we do
+## Was wir anbieten
 
-Through AfAMax, we provide services covering different stages and purposes of real-estate valuation.
+Über AfAMax bieten wir verschiedene Leistungen für unterschiedliche Anwendungsfälle der Immobilienbewertung an.
 
-### Remaining Useful Life Appraisals
+### Restnutzungsdauer-Gutachten
 
-Professional **Restnutzungsdauer-Gutachten** for determining the actual remaining useful life of buildings and supporting property owners in the application of increased depreciation under German tax law.
+Professionelle **Restnutzungsdauer-Gutachten** zur Ermittlung der tatsächlichen verbleibenden Nutzungsdauer von Gebäuden.
 
-The process combines structured digital property data collection with professional assessment by qualified experts.
+Sie können Immobilieneigentümer dabei unterstützen, eine kürzere tatsächliche Nutzungsdauer gegenüber der typisierten Nutzungsdauer nachzuweisen und dadurch eine angepasste steuerliche Abschreibung geltend zu machen.
 
-### Property Valuation
+Der Prozess verbindet eine strukturierte digitale Erfassung der Immobilie mit der fachlichen Bewertung durch qualifizierte Experten.
 
-Professional **Wertgutachten** based on the recognized valuation methods of the German *Immobilienwertermittlungsverordnung (ImmoWertV)*.
+### Wertgutachten
 
-These appraisals support situations such as property purchases and sales, private asset planning, inheritance arrangements, transfers and gifts, financing discussions, and private agreements.
+Professionelle **Wertgutachten** auf Grundlage anerkannter Bewertungsverfahren nach der *Immobilienwertermittlungsverordnung (ImmoWertV)*.
 
-### Market Value Appraisals
+Sie eignen sich unter anderem für:
 
-Comprehensive **Verkehrswertgutachten** for cases requiring a formally documented market value according to **§ 194 BauGB** and the valuation methods of the **ImmoWertV**.
+- Kauf und Verkauf von Immobilien
+- private Vermögensplanung
+- Erbschaften
+- Schenkungen und Übertragungen
+- Finanzierungsgespräche
+- private Vereinbarungen und Verhandlungen
 
-These appraisals are intended for situations where the valuation may need to withstand formal review, including interactions with authorities, courts, inheritance matters, and disputed proceedings.
+### Verkehrswertgutachten
 
-### Purchase Price Allocation
+Umfassende **Verkehrswertgutachten** zur Ermittlung des Verkehrswerts einer Immobilie gemäß **§ 194 BauGB** und den Bewertungsverfahren der **ImmoWertV**.
 
-Professional **Kaufpreisaufteilung** for separating the purchase price of a property into land and building value.
+Sie sind insbesondere für Fälle vorgesehen, in denen eine nachvollziehbare und umfassend dokumentierte Wertermittlung erforderlich ist, beispielsweise gegenüber Behörden, Gerichten oder im Rahmen von Erbschaften und strittigen Verfahren.
 
-This provides the basis for determining the depreciable building portion following a real-estate acquisition.
+### Kaufpreisaufteilung
 
-## Digital appraisal workflows
+Professionelle **Kaufpreisaufteilungen** zur Aufteilung des Kaufpreises einer Immobilie in den Anteil für Grund und Boden sowie den Gebäudewert.
 
-A major focus of our work is digitizing traditionally manual appraisal processes.
+Die Kaufpreisaufteilung bildet unter anderem die Grundlage für die Ermittlung des abschreibungsfähigen Gebäudeanteils nach dem Erwerb einer Immobilie.
 
-Our platform supports workflows such as:
+## Digitale Prozesse für Immobiliengutachten
 
-* structured property data collection
-* guided digital property inspections
-* document and evidence collection
-* property and modernization assessment
-* appraisal commissioning and processing
-* multi-unit and multi-family properties
-* digital delivery of professional appraisal reports
+Ein zentraler Schwerpunkt unserer Arbeit liegt auf der Digitalisierung traditionell manueller Abläufe in der Immobilienbewertung.
 
-We also provide tools that allow property owners to perform an initial assessment before commissioning a professional appraisal.
+Unsere Plattform unterstützt unter anderem:
 
-## About AfAMax
+- strukturierte Erfassung von Immobilien- und Objektdaten
+- geführte digitale Objektbesichtigungen
+- Erfassung von Dokumenten und Nachweisen
+- Bewertung von Gebäudezustand und Modernisierungsmaßnahmen
+- Beauftragung und Bearbeitung von Gutachten
+- Mehrfamilienhäuser und mehrere Wohneinheiten
+- digitale Bereitstellung professioneller Gutachten
 
-[AfAMax](https://afamax.de) is a brand of **Rundum Immo UG** and provides digital access to professional property appraisal services throughout Germany.
+Darüber hinaus stellen wir Werkzeuge bereit, mit denen Immobilieneigentümer eine erste Einschätzung vornehmen können, bevor sie ein professionelles Gutachten beauftragen.
 
-→ [Visit AfAMax](https://afamax.de)
-→ [Visit Rundum Immo](https://rundum.immo)
+## Über AfAMax
+
+[AfAMax](https://afamax.de) ist eine Marke der **Rundum Immo UG** und bietet deutschlandweit digitalen Zugang zu professionellen Dienstleistungen rund um Immobilienbewertung und Immobiliengutachten.
+
+→ [AfAMax besuchen](https://afamax.de)  
+→ [Rundum Immo besuchen](https://rundum.immo)
 
 ---
 
-**Rundum Immo UG**
-Real Estate × Technology × Digital Appraisal
+**Rundum Immo UG**  
+Immobilien × Technologie × Digitale Gutachten
